@@ -18,7 +18,7 @@ Welcome to our Keylogger project for Group 4! This project involves the developm
 ## Group 4
 
 | Name           | Role        |
-|----------------|-------------|--------|
+|----------------|-------------|
 | Edward Tavarez | Developer   |  
 | Jason Cain     | Developer   |  
 | Jose Tovar     | Developer   |     
