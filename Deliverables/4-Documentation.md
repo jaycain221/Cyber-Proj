@@ -31,6 +31,8 @@ Welcome to the Keylogger script! This Python program captures keyboard input eve
 
 ### Libraries
 
+1. Install the required dependencies:
+
    ```bash
    pip install keyboard pywin32
 
