@@ -3,12 +3,10 @@
 ## Overview
 Welcome to our Keylogger project for Group 4! This project involves the development of a Python script designed to capture and log keyboard input events. The script operates discreetly in the background, capturing key presses and storing them in a specified text file. This project is intended for educational purposes only, and it is crucial to use it responsibly and ethically.
 
-**Group 4: Keylogging**
-
 ## Table of Contents
 
 - [Group](#group-4)
-- [Project Objectives](#project-objectives)
+- [Script Objectives](#script-objectives)
 - [Project Components](#project-components)
 - [Risks](#risks)
 - [Next Steps](#next-steps)
@@ -24,9 +22,9 @@ Welcome to our Keylogger project for Group 4! This project involves the developm
 | Jose Tovar     | Developer   |     
 ---
 
-## Project Objectives
+## Script Objectives
 
-The main objectives of this project are:
+The main objectives of the script are:
 
 **Keylogging:** Implement a keylogging functionality that captures various keyboard events, including standard keys like letters and special keys like 'space', 'enter', and 'backspace.'
 
@@ -34,7 +32,6 @@ The main objectives of this project are:
 
 **Background Operation:** Ensure the script operates in the background without displaying a console window, creating a discreet logging process.
 
-**Responsibility:** Emphasize the importance of ethical use, user consent, and legal compliance when working with keylogging functionality.
 
 ---
 
@@ -71,4 +68,5 @@ After completing the initial setup, consider the following next steps:
 
 4. **Feedback:** Gather feedback from team members and stakeholders to refine the project further.
 
-Remember to prioritize ethical considerations, user privacy, and legal compliance in all your projects.
+
+**Remember to prioritize ethical considerations, user privacy, and legal compliance in all your projects.**
