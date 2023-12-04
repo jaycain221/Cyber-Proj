@@ -7,7 +7,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Libraries](#libraries)
-- [Configuration](#configuration)
+  - [Configuration](#configuration)
 
 ---
 
@@ -33,3 +33,7 @@ Welcome to the Keylogger script! This Python program captures keyboard input eve
 
    ```bash
    pip install keyboard pywin32
+
+### Configuration
+
+Edit the path within the **keylogger.py** file to your desired output location
