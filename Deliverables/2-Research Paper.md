@@ -40,5 +40,10 @@ Keyloggers are used by corporations for system troubleshooting or employee monit
 
 ## References
 
-https://github.com/suriyaa/keylogger
+- https://github.com/suriyaa/keylogger
 
+- https://usa.kaspersky.com/resource-center/threats/darkhotel-malware-virus-threat-definition​
+
+- https://www.phishlabs.com/blog/olympic-vision-keylogger-and-bec-scams/​
+
+- https://www.sophos.com/en-us/cybersecurity-explained/keylogger
