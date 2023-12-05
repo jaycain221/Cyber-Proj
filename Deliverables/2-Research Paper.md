@@ -1,6 +1,19 @@
 # USB KeyLogger Malware
 *Authors: Jose, Jason, Edward*
 
+## Table of Contents
+- [Keylogger Definition](#keylogger-definition)
+- [How Keyloggers Work](#how-keyloggers-work)
+- [Reasons for Keylogger Usage](#reasons-for-keylogger-usage)
+- [Types of Keyloggers](#types-of-keyloggers)
+  - [Software-Based Keyloggers](#software-based-keyloggers)
+  - [Hardware-Based Keyloggers](#hardware-based-keyloggers)
+- [Preventing Keylogging Attacks](#preventing-keylogging-attacks)
+- [Legal and Ethical Aspects of Keyloggers](#legal-and-ethical-aspects-of-keyloggers)
+- [References](#references)
+
+---
+
 ## Keylogger Definition
 A **keylogger**, or **keystroke logger**, is a type of spyware that monitors and records keystrokes on a computer or mobile device. Keylogging can be executed through either software or hardware and is used for both legal and illegal purposes.
 
@@ -24,3 +37,8 @@ To mitigate keylogging risks, enable two-factor authentication, avoid downloadin
 
 ## Legal and Ethical Aspects of Keyloggers
 Keyloggers are used by corporations for system troubleshooting or employee monitoring, by parents for monitoring children's activities, and even by suspicious spouses. While legal if the device owner installs it, concerns arise when malicious actors use keyloggers, as they can capture sensitive information and send it to remote servers. Hardware keyloggers, embedded in PCs or as keyboard plugins, are particularly insidious.
+
+## References
+
+https://github.com/suriyaa/keylogger
+
