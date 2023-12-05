@@ -1,4 +1,4 @@
-# Cyber-Project
+# Cyber Project
 Welcome to our final project!
 
 # Keylogger Script
