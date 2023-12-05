@@ -46,11 +46,11 @@ Edit the path within the **keylogger.py** file to your desired output location
 
 ## Security and Privacy
 
-- **Responsibility:** Use this script responsibly and in compliance with legal and ethical standards.
-- **Consent:** Ensure that the script
-- 
+- **Responsibility: ** Use this script responsibly and in compliance with legal and ethical standards.
 
+- **Consent:** Ensure that the script is used with explicit consent from users.
 
+- **Legal Compliance: ** Be aware of and adhere to local laws and regulations related to user privacy and data protection. 
 
 ## Dependencies
 
